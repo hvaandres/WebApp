@@ -20,5 +20,4 @@ function main() {
     document.querySelector(".app-wrapper")
   );
 }
-
 document.addEventListener("DOMContentLoaded", main);
